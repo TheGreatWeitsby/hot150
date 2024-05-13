@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CS/Mycode/hot150/containNearbyDuplicate219",
-      "program": "d:/CS/Mycode/hot150/containNearbyDuplicate219/build/Debug/outDebug",
+      "cwd": "d:/CS/Mycode/hot150/Dijkstra",
+      "program": "d:/CS/Mycode/hot150/Dijkstra/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
